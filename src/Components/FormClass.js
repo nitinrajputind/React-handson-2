@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class FormClass extends Component {
+class FormClass extends Component {
   state = {
     Name: "",
     Dept: "",

@@ -60,9 +60,10 @@ input::placeholder{
 }
 
 .item{
-    width: 500px;
+    width: 400px;
     height: 80px;
     margin: 35px;
+    margin-left: 90px;
     border: 3px solid black;
     border-radius: 20px;
     font-size: 20px;
