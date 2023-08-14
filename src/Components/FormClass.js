@@ -45,7 +45,7 @@ class FormClass extends Component {
         <br />
 
         <label htmlFor="name">Rating : </label>
-        <input type="text" name="Rate" id="Rate" placeholder="Enter a Rating" required  value={this.state.Rate} onChange={this.changeHandle}/>
+        <input type="number" name="Rate" id="Rate" placeholder="Enter a Rating" required  value={this.state.Rate} onChange={this.changeHandle}/>
 
         <br />
         <br />
